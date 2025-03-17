@@ -28,4 +28,6 @@ public class Retângulo {
 		System.out.println("Tamanho do lado: " + calcularArea());
 		System.out.println("Área total:" + altura);
 		System.out.println("Tamanho do lado:" + altura);
-		System.out.println("----------------");}}
+		System.out.println("----------------");
+		}
+	}
